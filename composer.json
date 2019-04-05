@@ -1,5 +1,5 @@
 {
-  "name": "eadesignro/module-mobiledetect",
+  "name": "eadesignro/module-mobiledetect-deved",
   "description": "Magento 2 EaDesign Mobile Detect System",
   "type": "magento2-module",
   "version": "1.1.8",
@@ -29,7 +29,9 @@
     }
   ],
   "require": {
-    "magento/framework": "~100.0|~101.0|~102.0"
+    "magento/framework": "~100.0|~101.0|~102.0",
+    "eadesignro/module-eacore": "^0.2.6",
+    "mobiledetect/mobiledetectlib": "2.8.*"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "~2.13.0",
