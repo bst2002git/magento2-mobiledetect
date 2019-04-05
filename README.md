@@ -25,11 +25,11 @@ You can install the module via composer or manually by adding it to the app/code
 Via composer
 
 ``` bash
-composer config repositories.magento2-mobiledetect git git@github.com:EaDesgin/magento2-mobiledetect;
+composer config repositories.magento2-mobiledetect-dev git git@github.com:deved-it/magento2-mobiledetect;
 ```
 
 ``` bash
-composer require eadesignro/module-mobiledetect;
+composer require eadesignro/module-mobiledetect-deved;
 ```
 
 ``` bash 
